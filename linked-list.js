@@ -70,23 +70,7 @@ class LinkedList {
     this.length--;
     return toPop;
   }
-  // while (this.current.length < this.length-1) {
-  //   current = current.next;
 
-  // go to next list item until we reach the second to last item
-        // then assign that to tail
-        // then assign it's next to null
-    // return toPop
-
-
-
-
-      this.tail = null;
-
-      // save item as variable
-      // reassign tail to item, and next to null
-
-  }
 
   /** shift(): return & remove first item. */
 
